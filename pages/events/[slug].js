@@ -1,7 +1,9 @@
+import Layout from "../../components/Layout";
+
 export default function AddPage() {
     return(
-        <div>
+        <Layout>
             <h1>Hello from add slug event page</h1>
-        </div>
+        </Layout>
     )
 }
